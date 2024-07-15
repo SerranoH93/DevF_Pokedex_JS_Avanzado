@@ -1,0 +1,12 @@
+.card {
+    background-color: gray;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    border-color: white;
+}
+
+.pokeImg {
+    width: 400px;
+    height: 200px;
+}

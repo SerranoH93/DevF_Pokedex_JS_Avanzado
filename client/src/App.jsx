@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
 import { Route, Routes, useLocation } from 'react-router-dom';
-import LandingPage from './components/landingpage/LandinPage.jsx';
-import Home from './components/home/Home.jsx'
-import NotFound from './components/notfound/NotFound.jsx'
+import LandingPage from './views/landingpage/LandinPage.jsx';
+import Home from './views/home/Home.jsx'
+import NotFound from './views/notfound/NotFound.jsx'
 
 
 function App() {
